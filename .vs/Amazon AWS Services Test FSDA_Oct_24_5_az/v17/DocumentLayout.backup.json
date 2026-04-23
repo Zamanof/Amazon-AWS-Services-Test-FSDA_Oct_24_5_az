@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zamanov\\source\\repos\\Amazon AWS Services Test FSDA_Oct_24_5_az\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2806FC-136E-42BF-B64F-353104C2A40B}|MyApp\\MyApp.csproj|c:\\users\\zamanov\\source\\repos\\amazon aws services test fsda_oct_24_5_az\\myapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2806FC-136E-42BF-B64F-353104C2A40B}|MyApp\\MyApp.csproj|solutionrelative:myapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2806FC-136E-42BF-B64F-353104C2A40B}|MyApp\\MyApp.csproj|c:\\users\\zamanov\\source\\repos\\amazon aws services test fsda_oct_24_5_az\\myapp\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2806FC-136E-42BF-B64F-353104C2A40B}|MyApp\\MyApp.csproj|solutionrelative:myapp\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/fsdeoct243ruproducts.c5mmqqg6cyxx.eu_north_1.rds.amazonaws.com/Product245Db/admin/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2806FC-136E-42BF-B64F-353104C2A40B}|MyApp\\MyApp.csproj|c:\\users\\zamanov\\source\\repos\\amazon aws services test fsda_oct_24_5_az\\myapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A2806FC-136E-42BF-B64F-353104C2A40B}|MyApp\\MyApp.csproj|solutionrelative:myapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2806FC-136E-42BF-B64F-353104C2A40B}|MyApp\\MyApp.csproj|c:\\users\\zamanov\\source\\repos\\amazon aws services test fsda_oct_24_5_az\\myapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2806FC-136E-42BF-B64F-353104C2A40B}|MyApp\\MyApp.csproj|solutionrelative:myapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2806FC-136E-42BF-B64F-353104C2A40B}|MyApp\\MyApp.csproj|c:\\users\\zamanov\\source\\repos\\amazon aws services test fsda_oct_24_5_az\\myapp\\dtos\\productreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2806FC-136E-42BF-B64F-353104C2A40B}|MyApp\\MyApp.csproj|solutionrelative:myapp\\dtos\\productreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2806FC-136E-42BF-B64F-353104C2A40B}|MyApp\\MyApp.csproj|c:\\users\\zamanov\\source\\repos\\amazon aws services test fsda_oct_24_5_az\\myapp\\dtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2806FC-136E-42BF-B64F-353104C2A40B}|MyApp\\MyApp.csproj|solutionrelative:myapp\\dtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A2806FC-136E-42BF-B64F-353104C2A40B}|MyApp\\MyApp.csproj|c:\\users\\zamanov\\source\\repos\\amazon aws services test fsda_oct_24_5_az\\myapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A2806FC-136E-42BF-B64F-353104C2A40B}|MyApp\\MyApp.csproj|solutionrelative:myapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\zamanov\\source\\repos\\Amazon AWS Services Test FSDA_Oct_24_5_az\\MyApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MyApp\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\zamanov\\source\\repos\\Amazon AWS Services Test FSDA_Oct_24_5_az\\MyApp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MyApp\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:56:52.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Products [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/fsdeoct243ruproducts.c5mmqqg6cyxx.eu_north_1.rds.amazonaws.com/Product245Db/admin/SqlTable/dbo.Products.sql",
+              "ToolTip": "dbo.Products [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-23T12:56:12.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zamanov\\source\\repos\\Amazon AWS Services Test FSDA_Oct_24_5_az\\MyApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MyApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\zamanov\\source\\repos\\Amazon AWS Services Test FSDA_Oct_24_5_az\\MyApp\\appsettings.json",
+              "RelativeToolTip": "MyApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-23T12:50:43.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\zamanov\\source\\repos\\Amazon AWS Services Test FSDA_Oct_24_5_az\\MyApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MyApp\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\zamanov\\source\\repos\\Amazon AWS Services Test FSDA_Oct_24_5_az\\MyApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MyApp\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T11:52:14.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\zamanov\\source\\repos\\Amazon AWS Services Test FSDA_Oct_24_5_az\\MyApp\\DTOs\\ProductUpdateDto.cs",
+              "RelativeDocumentMoniker": "MyApp\\DTOs\\ProductUpdateDto.cs",
+              "ToolTip": "C:\\Users\\zamanov\\source\\repos\\Amazon AWS Services Test FSDA_Oct_24_5_az\\MyApp\\DTOs\\ProductUpdateDto.cs",
+              "RelativeToolTip": "MyApp\\DTOs\\ProductUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T11:51:56.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\zamanov\\source\\repos\\Amazon AWS Services Test FSDA_Oct_24_5_az\\MyApp\\DTOs\\ProductReadDto.cs",
+              "RelativeDocumentMoniker": "MyApp\\DTOs\\ProductReadDto.cs",
+              "ToolTip": "C:\\Users\\zamanov\\source\\repos\\Amazon AWS Services Test FSDA_Oct_24_5_az\\MyApp\\DTOs\\ProductReadDto.cs",
+              "RelativeToolTip": "MyApp\\DTOs\\ProductReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T11:51:52.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\zamanov\\source\\repos\\Amazon AWS Services Test FSDA_Oct_24_5_az\\MyApp\\DTOs\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "MyApp\\DTOs\\ProductCreateDto.cs",
+              "ToolTip": "C:\\Users\\zamanov\\source\\repos\\Amazon AWS Services Test FSDA_Oct_24_5_az\\MyApp\\DTOs\\ProductCreateDto.cs",
+              "RelativeToolTip": "MyApp\\DTOs\\ProductCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T11:51:42.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\zamanov\\source\\repos\\Amazon AWS Services Test FSDA_Oct_24_5_az\\MyApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MyApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\zamanov\\source\\repos\\Amazon AWS Services Test FSDA_Oct_24_5_az\\MyApp\\Models\\Product.cs",
+              "RelativeToolTip": "MyApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T11:50:42.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

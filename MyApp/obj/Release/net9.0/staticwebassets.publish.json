@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "OQVn8cP1rCsj8sFkvThrZR57iBTBpHXcDJjzyE0Q0tQ=",
+  "Source": "MyApp",
+  "BasePath": "_content/MyApp",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyApp\\wwwroot",
+      "Source": "MyApp",
+      "ContentRoot": "C:\\Users\\zamanov\\source\\repos\\Amazon AWS Services Test FSDA_Oct_24_5_az\\MyApp\\wwwroot\\",
+      "BasePath": "_content/MyApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

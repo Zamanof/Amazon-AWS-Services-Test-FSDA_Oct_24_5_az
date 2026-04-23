@@ -1,0 +1,16 @@
+{
+  "name": "discount-scheduler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.mjs",
+  "scripts": {
+    "test:local": "node src/index.mjs"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "mssql": "^11.0.1"
+  }
+}

@@ -1,0 +1,6 @@
+@Amazon_AWS_Services_Test_FSDA_Oct_24_5_az_HostAddress = http://localhost:5023
+
+GET {{Amazon_AWS_Services_Test_FSDA_Oct_24_5_az_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

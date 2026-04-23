@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\zamanov\\source\\repos\\Amazon AWS Services Test FSDA_Oct_24_5_az\\MyApp\\wwwroot\\assets\\index-B7kesvLN.js",
+      "PackagePath": "staticwebassets\\assets\\index-B7kesvLN.js"
+    },
+    {
+      "Id": "C:\\Users\\zamanov\\source\\repos\\Amazon AWS Services Test FSDA_Oct_24_5_az\\MyApp\\wwwroot\\assets\\index-CRoLjanT.css",
+      "PackagePath": "staticwebassets\\assets\\index-CRoLjanT.css"
+    },
+    {
+      "Id": "C:\\Users\\zamanov\\source\\repos\\Amazon AWS Services Test FSDA_Oct_24_5_az\\MyApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.MyApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.MyApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.build.MyApp.props",
+      "PackagePath": "build\\MyApp.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MyApp.props",
+      "PackagePath": "buildMultiTargeting\\MyApp.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildTransitive.MyApp.props",
+      "PackagePath": "buildTransitive\\MyApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
