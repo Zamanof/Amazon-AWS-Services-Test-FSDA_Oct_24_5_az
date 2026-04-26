@@ -1,0 +1,66 @@
+# -----------------------------
+# OS / Editor
+# -----------------------------
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# -----------------------------
+# Logs
+# -----------------------------
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# -----------------------------
+# Environment / Secrets
+# -----------------------------
+.env
+.env.*
+!.env.example
+*.secret
+*.secrets.json
+credentials.json
+
+# -----------------------------
+# Node.js
+# -----------------------------
+node_modules/
+dist/
+build/
+coverage/
+.nyc_output/
+.parcel-cache/
+.next/
+
+# -----------------------------
+# .NET / Visual Studio
+# -----------------------------
+bin/
+obj/
+.vs/
+TestResults/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# -----------------------------
+# AWS / SAM / Serverless
+# -----------------------------
+.aws-sam/
+.serverless/
+
+# -----------------------------
+# Archives / Temp
+# -----------------------------
+*.zip
+*.tmp
+*.temp
