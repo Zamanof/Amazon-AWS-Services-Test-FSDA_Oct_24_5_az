@@ -1,6 +1,5 @@
 import {loadConfig} from "./config.mjs";
 import sql from "mssql"
-import {connect} from "mssql/lib/global-connection.js";
 
 let poolPromise = null
 const config = loadConfig();

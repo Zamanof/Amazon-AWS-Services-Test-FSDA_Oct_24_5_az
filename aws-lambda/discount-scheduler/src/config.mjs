@@ -21,6 +21,6 @@ export function loadConfig(){
         dbPassword: requireEnv('DB_PASSWORD'),
         dbName: requireEnv('DB_NAME'),
         dbEncrypt: parseBoolean(requireEnv('DB_ENCRYPT'), true),
-        dbTrustServerCertificate: requireEnv('DB_TRUST_SERVER_CERTIFICATE', true),
+        dbTrustServerCertificate: parseBoolean(requireEnv('DB_TRUST_SERVER_CERTIFICATE', true)),
     }
 }
